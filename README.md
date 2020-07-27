@@ -8,9 +8,11 @@ Helping Steve to analyze entire stock market for his parents to make investment 
 ## Results of the Analysis
 
 Stock Market Analysis 2017
+
 ![Stock Analysis 2017](https://github.com/emmagao1/stock-analysis/blob/master/Stock%20Analysis%202017.png)
 
 Stock Market Analysis 2018
+
 ![Stock Analysis 2018](https://github.com/emmagao1/stock-analysis/blob/master/Stock%20Analysis%202018.png)
 
 
