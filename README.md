@@ -3,7 +3,7 @@
 ## Overview of Project
 
 #### Purpose of the Analsis
-Helping Steve to analyze entire stock market for his parents and shortening the file calculating time.
+Helping Steve to analyze entire stock market for his parents to make investment decisions and shortening the file calculating time.
 
 ## Results of the Analysis
 ![Stock Analysis 2017](https://github.com/emmagao1/stock-analysis/blob/master/Stock%20Analysis%202017.png)
@@ -17,6 +17,8 @@ As result is showing majority of stock investments have positive return for the 
 #### Advantages or disadvantages of refactoring code
 
 Advantages of refactoring the code are reducing the script running time and increasing the readability. 
-Disacvantages of refactoring the code are the complexity and it might have more bugs.  
+Disacvantages of refactoring the code are the complexity of the script that takes longer to write and debugging.  
 
 #### How do these pros and cons apply to refactoring the original VBA script?
+
+The only pro I noticed for current VBA script is that it shortened script running time. Cons are it's hard to understand for someone who just started to learn coding and it takes a lot of effort to make the code work.
